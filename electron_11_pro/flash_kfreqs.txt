@@ -1,0 +1,246 @@
+œÀ≈—≈Õ‹
+Aflatoxin-0177190-0177190
+Besnoitia prot-0352800-0361400
+Cytochalasin ¬-0077000-0077000
+Cytochalasin ¬2-0091000-0091000
+Ergot-0295000-0295000
+Griseofulvin-0288000-0288000
+Histoplasma cap-0298300-0304850
+Myxosoma-0409600-0416950
+Pneumocystis c.-0405750-0409150
+Sorghum syrup-0277000-0277000
+Sterigmatocyst.-0088000-0088000
+Sterigmatocyst2-0096000-0096000
+Sterigmatocyst3-0133000-0133000
+Sterigmatocyst4-0126000-0126000
+Zearalenone-0100000-0100000
+
+—À»«»—“.œÀ≈—≈Õ‹
+Arcyria-0081000-0081000
+Lycogala-0126000-0126000
+Stemonitis-0211000-0211000
+
+ƒ–Œ∆∆»
+Candida albican-0384200-0388400
+
+¬»–”—€
+Adenovirus-0393000-0393000
+Adenovirus 2nd-0371450-0386900
+Coxsackie B1-0360500-0366100
+Coxsackie B4-0361450-0363700
+Coxsackie B4 2-0363900-0364900
+Cytomegalovirus-0408350-0410750
+Epstein Barre-0372500-0382850
+Hepatitis ¬-0414550-0420800
+Herpes simplex1-0291250-0293050
+Herpes simp.1-2-0345350-0345750
+Herpes simplex2-0353900-0362900
+Herpes Zoster-0416600-0420200
+Influenza A&¬-0313350-0323900
+Measles antigen-0369500-0373000
+Mumps antigen-0377600-0384650
+Respiratory syn-0378950-0383150
+Tobacco mosaic-0427150-0429550
+
+¡Œ–Œƒ¿¬ »
+Wart BS-0402000-0406000
+Wart HA-0434800-0444100
+Papilloma pl-0404700-0406750
+Papilloma vir-0402850-0410700
+Wart L arm-0343650-0345950
+Papilloma ce.sm-0404050-0404600
+Wart CC-0426000-0432350
+Wart FR-0459300-0464750
+Wart HRCm-0438900-0448550
+War JB-0418750-0422400
+
+¡¿ “≈–»»
+Anaplasma marg.-0386400-0388000
+Anaplasma marg2-0415300-0424000
+Alpha streptoco-0369750-0385400
+Bac. anthracis-0393500-0398050
+Bac. anthracis2-0363200-0365300
+Bac. anthracis3-0359400-0370500
+Bac. ant.spores-0386950-0391450
+Bacillus cereus-0373650-0375850
+Subtilis niger-0371850-0387100
+Bact. capsules-0416050-0418750
+Bact. capsul.2-0357600-0362400
+Bact. fragilis-0324300-0325000
+Bact. fragilis2-0325700-0326000
+Beta streptococ-0380600-0387400
+Bordetella pert-0329850-0332250
+Borellia burgdo-0378950-0382000
+Branhamella Nei-0394900-0396700
+Camp fetus sme-0365300-0370600
+Campy.pyloridis-0352000-0357200
+Central spores-0372450-0378650
+Chlamydia trach-0379700-0383950
+Clostr.acetobut-0382800-0391130
+Clostr.botulinu-0361000-0364330
+Clostr.perfring-0394200-0398100
+Clostr.septicum-0362050-0365600
+Coryneb.diphthe-0340000-0344000
+Coryneb.xerosis-0315650-0316800
+Cytophaga rubra-0428100-0432200
+Diploc.diphther-0357950-0364000
+Diploc.pneumoni-0351650-0368450
+Enterob.aerogen-0374000-0374000
+Erwinia amylov.0347200-0352100
+Erwinia carotov-0368100-0377000
+Escher.coli.E1-0356000-0356000
+Escher.coli.E2-0392000-0393000
+Gaffkya tetrage-0344850-0352500
+Gardnerella vag-0338000-0342550
+Haemophilus inf-0336410-0336410
+Klebsiella pneu-0398450-0404650
+Klebsiella pne2-0416900-0421900
+Lactobac.acidop-0346050-0351650
+Leptosp.interro-0397050-0401100
+Mycobact.phlei-0409650-0410650
+Mycobact.tuberc-0430550-0434200
+Mycoplasma-0322850-0323900
+Mycoplasma 2nd-0342750-0349300
+Neiss.gonorrhea-0333850-0336500
+Nocard.asteroi2-0363700-0370000
+Nocard.asteroid-0354950-0355350
+Propionob.acnes-0383750-0389000
+Proteus mirabil-0320550-0326000
+Proteus mirabi2-0345950-0352100
+Proteus vulgar.-0408750-0416450
+Proteus vulgar2-0333750-0339150
+Proteus vulgar3-0327200-0329500
+Pseudom.aerugin-0331250-0334600
+Salmon.enteridi-0329000-0329000
+Salmon.paratyph-0365050-0370100
+Salmon.typhimur-0382300-0386550
+Serrat.marcesc.-0349450-0352100
+Shigel.dysenter-0390090-0390000
+Shigel.flexneri-0394000-0394000
+Shigella sonnei-0318000-0318000
+Sphaerot.natans-0388400-0393450
+Spirill.serpens-0378350-0382800
+Staphylo.aureus-0376270-0380850
+Staphyl.aureus2-0381000-0381000
+Streptoc.lactis-0382000-0387000
+Streptoc.mitis-0313800-0321100
+Strept.pneumoni-0366850-0370200
+Strept.pyogenes-0360500-0375300
+Streptococ.sp.G-0368150-0368850
+Sub.spores bac.-0385150-0385950
+Trepon.pallidum-0346850-0347400
+Veillone.dispar-0401750-0405200
+
+œ–Œ—“≈…ÿ»≈
+Balant.coli cys-0458800-0462900
+Chilomast.cysts-0425200-0427300
+Chilomas.cysts2-0388950-0390700
+Chilomonas-0393750-0400000
+Dientamoeb.frag-0401350-0406050
+Endamoeb.gingiv-0433800-0441000
+Endol.nana trop-0394250-0397100
+Endolimax.nana2-0430500-0433350
+Entamoeb.c.trop-0397000-0400350
+Entam.histol.tr-0381100-0387800
+Giardia lamblia-0421400-0426300
+Histomon.meleag-0376550-0378700
+Iodamoeba buts2-0398150-0404750
+Iodamoeba butsc-0437850-0448500
+Leishmania braz-0400050-0405100
+Leishman.donova-0398000-0402650
+Leishman.mexica-0400200-0403800
+Leishman.tropic-0402100-0407400
+Leucocytozoon-0397450-0402550
+Naegler.fowleri-0356900-0364350
+Plasmod.cynomol-0417300-0424500
+Plasm.falcip.s-0372300-0373800
+Plasm.vivax sme-0438150-0445100
+Sarcocystis-0450550-0454950
+Toxoplasma h.st-0395000-0395000
+Tricho.vaginali-0378000-0383600
+Trypanos.brucei-0423200-0431400
+Trypanos.cruzi-0460200-0465650
+Trypan.equiperd-0434600-0451250
+Trypan.gambiens-0393750-0398700
+Trypanos.lewisi-0424500-0426000
+Trypan.rhodesie-0423500-0428550
+
+Õ≈Ã¿“Œ“€
+Ancylostom.braz-0397600-0403250
+Ancylost.caninu-0383100-0402900
+Ascaris lar.lun-0404900-0409150
+Ascaris megaloc-0403850-0409700
+Capillari.hepat-0424250-0430650
+Dirofilar.immit-0408150-0411150
+Enterob.vermicu-0420950-0426300
+Haemonch.contor-0386800-0395500
+Loa loa-0360550-0360550
+Onchocerca volv-0436300-0442100
+Passalur.ambigu-0428800-0444150
+Stephanur.denta-0457350-0463100
+Strongyloides f-0398400-0402000
+Trichinel.spira-0403850-0405570
+Trichur.sp.male-0388300-0408900
+
+“–≈Ã¿“Œƒ€
+Clonorch.sinens-0425700-0428750
+Cryptocolyl.lin-0409950-0416000
+Echinoporyp.rec-0418550-0423900
+Echinostom.revo-0425500-0429650
+Eurytrem.pancre-0420350-0422300
+Fasciola hepati-0421350-0427300
+Fasciol.hep.cer-0423800-0430600
+Fasciol.hep.egg-0422000-0427600
+Fasci.hep.mirac-0421750-0424700
+Fasciol.hep.red-0420600-0427500
+Fasciolop.buski-0427700-0435100
+Fasciol.bus.egg-0427350-0435450
+Fasciolop.cerca-0429500-0436250
+Fasciolop.mirac-0427350-0435200
+Fasciolop.redia-0427300-0433000
+Fischoedr.elong-0441750-0443200
+Gastrothy.elong-0451900-0457100
+Gyrodactylus-0378750-0381800
+Hasstile s.tric-0448050-0455100
+Hypoder.conoide-0424450-0429550
+Metagon.Yokogaw-0437350-0442100
+Paragon.Westerm-0437800-0454200
+Prosthogon.maer-0396850-0404750
+Schistosom.haem-0473000-0473000
+Schistosom.Mans-0353000-0353000
+Urocleidus-0442350-0450000
+
+÷≈—“Œƒ€
+Cysticerc.fasci-0436400-0440050
+Diphyllob.erina-0467250-0487550
+Diphyllobot.lat-0452900-0472300
+Dipylidi.caninu-0439550-0444300
+Dipylidi.cani.h-0451950-0472150
+Echinococ.granu-0441150-0446500
+Echinoc.granul2-0451600-0461500
+Echinoc.multilo-0455850-0458350
+Hymenolep.cysti-0478000-0481750
+Hymenolep.dimin-0445000-0481150
+Moniezia(scolex-0430350-0465200
+Moniezia expans-0430350-0465200
+Multicep.serial-0453600-0457800
+Taen.pisifor.eg-0465200-0469700
+Taen.pisif.cyst-0475200-0482100
+Taen.sagin.cyst-0476500-0481050
+Taen.soliu.cyst-0475000-0475000
+Taen.soliu.scol-0444000-0448900
+
+ À≈Ÿ»
+Demodex follic-0682000-0682000
+Dermatophag.dus-0707000-0707000
+Meal mite-0718000-0718000
+Omithonys.bird-0877000-0878000
+Sarcopt.scabei-0735000-0735000
+
+œ–Œ◊»≈
+Blepharisma-0405650-0407450
+Eikanella corro-0379500-0384300
+Macracanthorhyn-0438850-0442800
+Stigeoclonium-0404250-0415250
+Troglodyt.abras-0377750-0385200
+Troglod.abrass2-0416900-0422200
